@@ -1,6 +1,6 @@
 {
   "name": "mochawesome",
-  "version": "5.0.0-beta",
+  "version": "5.0.1-beta",
   "description": "A gorgeous reporter for Mocha.js (forked by lvmtam)",
   "scripts": {
     "lint": "eslint src test",
