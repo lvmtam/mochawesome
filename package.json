@@ -53,7 +53,7 @@
     "lodash.isfunction": "^3.0.9",
     "lodash.isobject": "^3.0.2",
     "lodash.isstring": "^4.0.1",
-    "mochawesome-report-generator": "https://github.com/sunnypoint-vn/mochawesome-report-generator/releases/download/3.1.7/mochawesome-report-generator-3.1.7.tgz",
+    "mochawesome-report-generator": "https://github.com/lvmtam/mochawesome-report-generator.git#master",
     "strip-ansi": "^6.0.0",
     "uuid": "^7.0.0"
   },
