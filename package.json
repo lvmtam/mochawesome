@@ -1,7 +1,7 @@
 {
   "name": "mochawesome",
   "version": "5.0.0",
-  "description": "A gorgeous reporter for Mocha.js",
+  "description": "A gorgeous reporter for Mocha.js (forked by lvmtam)",
   "scripts": {
     "lint": "eslint src test",
     "test": "npm run lint && cross-env NODE_ENV=test nyc mocha --config test/.mocharc.json",
