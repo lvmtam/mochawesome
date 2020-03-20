@@ -1,7 +1,7 @@
 {
   "name": "mochawesome",
-  "version": "4.0.1",
-  "description": "A gorgeous reporter for Mocha.js",
+  "version": "4.0.2",
+  "description": "A gorgeous reporter for Mocha.js forked by lvmtam",
   "scripts": {
     "lint": "eslint src test",
     "test": "npm run lint && cross-env NODE_ENV=test nyc mocha",
@@ -53,7 +53,7 @@
     "lodash.isfunction": "^3.0.9",
     "lodash.isobject": "^3.0.2",
     "lodash.isstring": "^4.0.1",
-    "mochawesome-report-generator": "^4.0.0",
+    "mochawesome-report-generator": "https://github.com/sunnypoint-vn/mochawesome-report-generator/releases/download/3.1.7/mochawesome-report-generator-3.1.7.tgz",
     "strip-ansi": "^5.0.0",
     "uuid": "^3.3.2"
   },
